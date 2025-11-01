@@ -518,7 +518,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 watchmygf.me
 0.0.0.0 wetpussygames.com
 0.0.0.0 wtfpeople.com
-0.0.0.0 x.com
 0.0.0.0 xbabe.com
 0.0.0.0 xcandid.top
 0.0.0.0 xcomics.se
