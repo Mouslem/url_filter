@@ -492,7 +492,6 @@ ff02::3 ip6-allhosts
 0.0.0.0 tubepornstars.com
 0.0.0.0 tubev.sex
 0.0.0.0 twistysnetwork.com
-0.0.0.0 twitter.com
 0.0.0.0 txxx.com
 0.0.0.0 uhairy.com
 0.0.0.0 uppornx.com
